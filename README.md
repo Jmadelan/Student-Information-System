@@ -1,6 +1,6 @@
-# Student Information System
+# BSIT WMAD Student
 
-A web-based Student Information System developed using React, Express.js, Prisma ORM, and MySQL. This application allows users to manage student records through basic CRUD (Create, Read, Update, and Delete) operations.
+A web-development Student Information System developed using React, Express.js, Prisma ORM, and MySQL. This application allows users to manage student records through basic CRUD (Create, Read, Update, and Delete) operations.
 
 ## Project Description
 
